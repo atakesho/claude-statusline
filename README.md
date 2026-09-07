@@ -18,7 +18,7 @@ Claude Code のステータスラインに、5時間枠・7日枠・モデル別
 ## インストール
 
 ```
-git clone <このリポジトリ> && cd claude-statusline
+git clone https://github.com/atakesho/claude-statusline.git && cd claude-statusline
 bash install.sh
 ```
 
