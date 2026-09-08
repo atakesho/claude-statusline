@@ -1,0 +1,15 @@
+{
+  "name": "claude-statusline",
+  "version": "1.1.0",
+  "private": true,
+  "description": "Claude Code statusline with 5h / 7d / per-model usage bars (Windows, macOS, Linux)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node test/smoke.js",
+    "install-statusline": "node install.js"
+  },
+  "dependencies": {}
+}
